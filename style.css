@@ -1,0 +1,19 @@
+#container {
+background-color: red;    
+width: 50vw;
+height: 50vh;
+background-color:#6C7A89;
+display:flex;
+align-items: center;
+justify-content: center;
+position: absolute;
+
+}
+#box {
+   width: 200px;
+    height: 200px;
+    background: #fff;
+    }
+    body {
+    margin: 0px;
+    }
